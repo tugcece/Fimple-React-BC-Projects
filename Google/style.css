@@ -1,0 +1,45 @@
+.homepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box{
+    width: 40%;
+    background-color: #7EE4DA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.searchContainer{
+    background: #EEEEEE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 80px;
+    width: 90%;
+}
+.searchButtons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; 
+}
+.infoContainer {
+    display: flex;
+    width: 90%;
+    gap: 1px;
+    height: 100px;
+}
+.image{
+    height: 113px;
+    width: 351px;
+}
+#secondBox{
+    background-color: #6FCCC2;
+}
+#thirdBox{
+    background-color: #62B3AA;
+}
